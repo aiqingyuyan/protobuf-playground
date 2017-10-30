@@ -1,0 +1,15 @@
+<articlecollection>
+    <article>
+        <id>1234</id>
+        <title>Awesome Title</title>
+        <snippet>fLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at scelerisque enim. Donec a odio enim.</snippet>
+        <content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at scelerisque enim. Donec a odio enim. Donec vulputate justo aliquam purus tempor posuere. Aliquam sed quam eu dolor imperdiet sollicitudin a sed dolor. In vulputate tristique dui a molestie. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas pellentesque eros leo, luctus aliquam erat bibendum non. Duis id euismod augue, at lobortis libero. Phasellus volutpat urna sed viverra ultrices. Cras auctor, tortor ac varius lobortis, mi dolor sodales orci, et eleifend est nibh ac nunc. Suspendisse potenti. Nam a malesuada dolor. Nunc gravida, tortor luctus cursus dignissim, tellus justo feugiat arcu, eget tincidunt lacus ante in tellus. Nulla id nibh nisl.</content>
+        <isfeatured>true</isfeatured>
+        <author>
+            <id>1023</id>
+            <name>Yan</name>
+            <email>yyu@example.com</email>
+        </author>
+        <topic>0</topic>
+    </article>
+</articlecollection>

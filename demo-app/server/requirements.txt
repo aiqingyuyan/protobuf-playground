@@ -1,0 +1,14 @@
+Flask
+flask-compress
+Jinja2
+MarkupSafe
+Werkzeug
+itsdangerous
+mox
+protobuf
+python-dateutil
+python-gflags
+pytz
+six
+wsgiref
+barnum

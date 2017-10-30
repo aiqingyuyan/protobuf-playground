@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+package tutorial;
+
+message Article {
+    int32 id = 1;
+    string title = 3;
+    string snippet = 4;
+    string content = 5;
+    bool isFeatured = 6;
+
+    enum Topic {
+        SCIENCE = 0;
+        TECHNOLOGY = 1;
+        NATURE = 2;
+        ENTERTAINMENT = 3;
+        POLITICS = 4;
+    }
+
+    message Author {
+        int32 id = 1;
+        string name = 2;
+        string email = 3;
+    }
+
+    Author author = 7;
+    repeated Topic topics = 8;
+}
+
+message ArticleCollection {
+    repeated Article articles = 1;
+}

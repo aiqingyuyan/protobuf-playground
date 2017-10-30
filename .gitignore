@@ -1,0 +1,8 @@
+*pyc
+*.o
+demo-app/bin
+demo-app/include
+demo-app/lib
+demo-app/.vscode
+.vscode/
+.DS_Store
